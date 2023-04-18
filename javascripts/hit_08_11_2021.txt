@@ -1,0 +1,1390 @@
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/lockdown-in-the-leeds-housing-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/lockdown-in-the-leeds-housing-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:20.456546289Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/top-17-places-to-live-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/top-17-places-to-live-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:20.986929048Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-to-sell-your-house-in-winter',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-to-sell-your-house-in-winter',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:20.994069895Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/application-guide',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/application-guide',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.004832282Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/why-we-expect-a-surge-in-demand-for-leeds-homes-in-2020',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/why-we-expect-a-surge-in-demand-for-leeds-homes-in-2020',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.002278354Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/the-outlook-for-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/the-outlook-for-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.003762179Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/covid-and-the-leeds-market-what-happens-next',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/covid-and-the-leeds-market-what-happens-next',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:20.994310574Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/no-heating-or-hot-water',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/no-heating-or-hot-water',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.003103988Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002994/ls27/leeds/church-street/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002994/ls27/leeds/church-street/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.007846413Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002911/ls11/leeds/crosby-view/house/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002911/ls11/leeds/crosby-view/house/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.006627825Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002991/ls27/leeds/church-street/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002991/ls27/leeds/church-street/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.005200751Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/to-buy-or-rent-a-guide-for-graduates',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/to-buy-or-rent-a-guide-for-graduates',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.010420053Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002484/ls2/leeds/kelso-gardens/house/3-bedrooms',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002484/ls2/leeds/kelso-gardens/house/3-bedrooms',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.005583386Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/i-want-to-move-but-i-cant-find-anything-to-buy',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/i-want-to-move-but-i-cant-find-anything-to-buy',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.006906168Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/has-covid-been-a-blessing-in-disguise-for-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/has-covid-been-a-blessing-in-disguise-for-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.020280163Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/can-the-us-election-really-affect-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/can-the-us-election-really-affect-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.015518911Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/christmas-opening-hours-2018',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/christmas-opening-hours-2018',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.014819538Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/investment-property-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/investment-property-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.016915524Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-to-invest-in-hmos-1',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-to-invest-in-hmos-1',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.016688924Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.021469682Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/temporary-reduction-to-stamp-duty-land-tax-announced',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/temporary-reduction-to-stamp-duty-land-tax-announced',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.014580516Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/dont-get-caught-by-changes-to-energy-rules',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/dont-get-caught-by-changes-to-energy-rules',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.026155765Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/are-there-going-to-be-more-buy-to-let-deals-available-in-leeds-this-winter',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/are-there-going-to-be-more-buy-to-let-deals-available-in-leeds-this-winter',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.034202670Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/christmas-opening-hours-2017',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/christmas-opening-hours-2017',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.033809605Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/essential-tips-for-tenants-at-christmas',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/essential-tips-for-tenants-at-christmas',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.052328519Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/deposit-replacement-scheme',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/deposit-replacement-scheme',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.060595420Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/overcoming-challenges-to-hmo-investingregulation',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/overcoming-challenges-to-hmo-investingregulation',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.066494312Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/is-downsizing-a-good-idea-for-leeds-residents',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/is-downsizing-a-good-idea-for-leeds-residents',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.068556661Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/7-essential-house-hunting-tips-for-students',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/7-essential-house-hunting-tips-for-students',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.069368955Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/burley-has-some-of-the-most-affordable-properties-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/burley-has-some-of-the-most-affordable-properties-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.064291117Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/capital-growth-or-yield',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/capital-growth-or-yield',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.069535914Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/do-i-need-a-for-sale-board',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/do-i-need-a-for-sale-board',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.071410479Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/its-full-steam-ahead-in-the-leeds-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/its-full-steam-ahead-in-the-leeds-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.069321350Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/where-should-i-buy',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/where-should-i-buy',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.069624155Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-is-rent-guarantee-insurance-and-how-can-it-help-me',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-is-rent-guarantee-insurance-and-how-can-it-help-me',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.070170774Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/dwell-leeds-awarded-feefo-gold-trusted-service-award-2018',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/dwell-leeds-awarded-feefo-gold-trusted-service-award-2018',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.069344928Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/non-resident-landlord-tax-solution',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/non-resident-landlord-tax-solution',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.073826383Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-certificates-do-i-need-to-sell-my-house',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-certificates-do-i-need-to-sell-my-house',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.073622848Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/sales-by-house-type-over-in-recent-years',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/sales-by-house-type-over-in-recent-years',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.066681986Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/instant-valuation',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/instant-valuation',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.072683285Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/is-the-leeds-market-really-booming',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/is-the-leeds-market-really-booming',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.077691375Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002959/ls28/leeds/marsden-grove/house/4-bedrooms',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002959/ls28/leeds/marsden-grove/house/4-bedrooms',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.079383611Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/chain-reaction',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/chain-reaction',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.078195178Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/new-help-to-buy-scheme-boosts-buyer-demand-even-further',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/new-help-to-buy-scheme-boosts-buyer-demand-even-further',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.082458990Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/burley-or-kirkstall-which-is-better-for-a-buy-to-let-investment',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/burley-or-kirkstall-which-is-better-for-a-buy-to-let-investment',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.076712788Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/join-our-team-080218',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/join-our-team-080218',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.078240428Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-leeds-has-to-offer',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-leeds-has-to-offer',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.080149365Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/whats-the-best-time-of-year-to-sell-my-property',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/whats-the-best-time-of-year-to-sell-my-property',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.077979238Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/cmp-becomes-mandatory',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/cmp-becomes-mandatory',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.077873993Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-article-4-area',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-article-4-area',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.078040937Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/why-are-more-and-more-people-wanting-to-invest-in-hmos-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/why-are-more-and-more-people-wanting-to-invest-in-hmos-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.080092692Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/seller-guide-download',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/seller-guide-download',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.085433582Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/tenant-application-form-download',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/tenant-application-form-download',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.079329724Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/time-to-make-your-move-in-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/time-to-make-your-move-in-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.079161038Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/the-downsides-of-investing-in-hmos',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/the-downsides-of-investing-in-hmos',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.083247457Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/landlord-services',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/landlord-services',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.076224744Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/government-extends-mandatory-licensing-of-hmos',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/government-extends-mandatory-licensing-of-hmos',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.079870669Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/refer-a-friend',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/refer-a-friend',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.082899536Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/consultation-on-tenant-fees-has-opened',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/consultation-on-tenant-fees-has-opened',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.096509179Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/the-great-outdoors-has-a-big-impact',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/the-great-outdoors-has-a-big-impact',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.096672802Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/which-leeds-residents-have-seen-the-best-house-price-inflation',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/which-leeds-residents-have-seen-the-best-house-price-inflation',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.096674555Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-to-add-value-to-your-property',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-to-add-value-to-your-property',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.091273020Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/we-are-still-open-for-business',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/we-are-still-open-for-business',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.093317470Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/top-areas-for-professional-lets-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/top-areas-for-professional-lets-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:11:21.425412358Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/even-more-positivity-in-the-leeds-housing-market',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/even-more-positivity-in-the-leeds-housing-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.457436268Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/cookie-policy',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/cookie-policy',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.465873178Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-available-is-your-estate-agent',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-available-is-your-estate-agent',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.464186104Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-do-estate-agents-actually-do-and-what-is-sales-progression',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-do-estate-agents-actually-do-and-what-is-sales-progression',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.469171982Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-much-does-outside-space-matter-to-homebuyers-in-leeds',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-much-does-outside-space-matter-to-homebuyers-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.476204559Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/join-our-team',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/join-our-team',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.468725647Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/seller-services',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/seller-services',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.469130839Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/12-top-tips-to-sell-your-home',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/12-top-tips-to-sell-your-home',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.475446725Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/minimum-energy-efficiency-standards-mees-2018',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/minimum-energy-efficiency-standards-mees-2018',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.475074157Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/breakdown-of-age-bands-in-ls16',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/breakdown-of-age-bands-in-ls16',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.472720398Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-is-going-on-right-now-in-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-is-going-on-right-now-in-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.477796243Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-to-guarantee-your-deposit-back',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-to-guarantee-your-deposit-back',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.470922513Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/a-recipe-for-success',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/a-recipe-for-success',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.483321137Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-housing-market-continues-to-do-well',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-housing-market-continues-to-do-well',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.484563457Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/will-the-leeds-property-market-face-up-to-post-lockdown-challenges',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/will-the-leeds-property-market-face-up-to-post-lockdown-challenges',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.481728760Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/asking-prices-surge',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/asking-prices-surge',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.479224840Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/impact-of-stamp-duty-on-yorkshire-house-prices',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/impact-of-stamp-duty-on-yorkshire-house-prices',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.482486700Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-leads-the-way-for-furnished-rental-property',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-leads-the-way-for-furnished-rental-property',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.485881990Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-long-does-it-take-to-sell-a-house',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-long-does-it-take-to-sell-a-house',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.500308233Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-is-a-great-place-to-buy-to-let',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-is-a-great-place-to-buy-to-let',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.499094901Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/rental-yields-rise-on-woodside-terrace-burley-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/rental-yields-rise-on-woodside-terrace-burley-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.502344609Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/selling-services',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/selling-services',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.499965868Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/whats-happening-to-house-prices-in-ls4-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/whats-happening-to-house-prices-in-ls4-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.500737317Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/do-ex-council-houses-in-headingley-make-good-buy-to-let-investments',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/do-ex-council-houses-in-headingley-make-good-buy-to-let-investments',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.516823042Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/hmos-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/hmos-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:07:56.477722735Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/landlord-and-investor-guide',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/landlord-and-investor-guide',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.889796927Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002178/ls4/leeds/knowle-road/house/1-bedroom',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002178/ls4/leeds/knowle-road/house/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.898399617Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/about-us',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/about-us',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.920592630Z' 
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/dwell-leeds-celebrate-launch-of-new-website',  
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/dwell-leeds-celebrate-launch-of-new-website',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.925649741Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/missing-eic-certificates',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/missing-eic-certificates',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.930782971Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/when-cheap-isnt-very-cheerful',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/when-cheap-isnt-very-cheerful',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.902207040Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/lockdown-3-open-and-here-to-help',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/lockdown-3-open-and-here-to-help',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.897271244Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/partners-services',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/partners-services',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.894452527Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/top-3-per-cent',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/top-3-per-cent',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.953923014Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/chistmas-opening-hours-2019',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/chistmas-opening-hours-2019',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.885914418Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/what-does-the-future-hold-for-house-prices-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/what-does-the-future-hold-for-house-prices-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.892572605Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/meet-the-team',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/meet-the-team',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.900876611Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/the-shifting-sands-of-the-headingley-housing-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/the-shifting-sands-of-the-headingley-housing-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.897836299Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203001912/ls6/leeds/queens-road/house/8-bedrooms',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203001912/ls6/leeds/queens-road/house/8-bedrooms',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.902180755Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-will-the-stamp-duty-holiday-affect-the-leeds-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-will-the-stamp-duty-holiday-affect-the-leeds-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.923745860Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/meet-the-team-2',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/meet-the-team-2',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.924001391Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-to-get-planning-permission-for-a-hmo',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-to-get-planning-permission-for-a-hmo',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.931773734Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-classed-as-highly-affordable-for-first-time-buyers',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-classed-as-highly-affordable-for-first-time-buyers',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.928066830Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/ls6-property-and-rental-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/ls6-property-and-rental-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.939820369Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/open-for-business-during-lockdown-2',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/open-for-business-during-lockdown-2',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.920707101Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/is-leeds-on-the-cusp-of-another-house-price-boom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/is-leeds-on-the-cusp-of-another-house-price-boom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.944574402Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002995/ls27/leeds/church-street/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002995/ls27/leeds/church-street/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.931575734Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/heres-why-timing-is-everything-in-the-ls16-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/heres-why-timing-is-everything-in-the-ls16-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.924473229Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/end-of-stamp-duty-holiday',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/end-of-stamp-duty-holiday',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:09.972363034Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/leeds-housing-market-and-knowing-what-figures-to-follow',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/leeds-housing-market-and-knowing-what-figures-to-follow',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:09:10.059009746Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/stamp-duty-holiday-to-be-extended',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/stamp-duty-holiday-to-be-extended',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:35.746270411Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/transport-and-road-developments-will-impact-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/transport-and-road-developments-will-impact-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.250989787Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/safeguard-against-interest-rises-on-your-mortgage',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/safeguard-against-interest-rises-on-your-mortgage',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.249804338Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002638/ls11/leeds/old-lane/house/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002638/ls11/leeds/old-lane/house/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.249510006Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/how-the-leeds-housing-market-has-changed-in-20-years',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/how-the-leeds-housing-market-has-changed-in-20-years',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.262213175Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/https//wdcdnco/media/1000/1000/761b42eb-6183-428b-a575-bd0454b5c5a3pdf',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/https//wdcdnco/media/1000/1000/761b42eb-6183-428b-a575-bd0454b5c5a3pdf',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.263886574Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/which-properties-sell-best-in-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/which-properties-sell-best-in-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.261496148Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002993/ls27/leeds/church-street/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002993/ls27/leeds/church-street/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.269729956Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/shower-power-versus-bathtub-bliss',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/shower-power-versus-bathtub-bliss',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.270176516Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/privacy-policy',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/privacy-policy',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.268729708Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002236/ls6/leeds/cliff-mount/house/4-bedrooms',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002236/ls6/leeds/cliff-mount/house/4-bedrooms',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.264870430Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/why-leeds-is-the-perfect-place-to-buy-a-home-in-2020',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/why-leeds-is-the-perfect-place-to-buy-a-home-in-2020',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.263237100Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002569/ls15/leeds/morritt-drive/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002569/ls15/leeds/morritt-drive/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.271844940Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/landlords-are-you-crazy',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/landlords-are-you-crazy',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.281427147Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/why-buyers-love-leeds',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/why-buyers-love-leeds',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.282779134Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/mortgage-calculator',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/mortgage-calculator',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.282464134Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002992/ls27/leeds/church-street/house-share/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002992/ls27/leeds/church-street/house-share/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.286210264Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/arrange-a-valuation',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/arrange-a-valuation',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.282660259Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/a-new-normal-for-the-leeds-property-market',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/a-new-normal-for-the-leeds-property-market',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.289059432Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/dont-be-haunted-by-ghost-gazumping',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/dont-be-haunted-by-ghost-gazumping',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.302147398Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/property/102203002846/ls7/leeds/brandon-way-crescent/house/1-bedroom',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/property/102203002846/ls7/leeds/brandon-way-crescent/house/1-bedroom',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.241097033Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/why-the-leeds-market-is-still-a-great-investment',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/why-the-leeds-market-is-still-a-great-investment',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.274620869Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/investor-guide-download',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/investor-guide-download',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.282379165Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/selling-your-home',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/selling-your-home',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.282640594Z'
+    }
+  }
+}
+{
+  urlNotificationMetadata: {
+    url: ' https://www.dwell-leeds.com/blog/helping-you-to-move-in-the-new-world',
+    latestUpdate: {
+      url: ' https://www.dwell-leeds.com/blog/helping-you-to-move-in-the-new-world',
+      type: 'URL_UPDATED',
+      notifyTime: '2021-11-08T13:10:36.284400576Z'
+    }
+  }
+}
